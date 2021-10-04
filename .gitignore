@@ -1,6 +1,7 @@
-.DS_Store
-.idea
-nbproject
-/backup/*
-/app/*
-/docker-compose.yml
+/nbproject/
+/.idea/*
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
